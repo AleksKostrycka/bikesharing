@@ -13,7 +13,7 @@ For this analysis, I used Pandas to change the "tripduration" column from an int
 
 ## Results
 
-Below are the results of the analysis. Not picutred is the .ipynb file that was used to convert the tripduration column from an integer to a datetime datatype. This can be found here: [link to file] (https://github.com/AleksKostrycka/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb) A new CSV file was created with the change to the trip duration column which was then used to create all below visualizations. This file could not be uploaded to Git Hub becuase of the size of the file. 
+Below are the results of the analysis. Not picutred is the .ipynb file that was used to convert the tripduration column from an integer to a datetime datatype. This can be found here: [link to file](https://github.com/AleksKostrycka/bikesharing/blob/main/NYC_Citibike_Challenge.ipynb) A new CSV file was created with the change to the trip duration column which was then used to create all below visualizations. This file could not be uploaded to Git Hub becuase of the size of the file. 
 
 Visualization # 1 Checkout Times for All Users:
 
