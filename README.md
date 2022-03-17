@@ -57,9 +57,19 @@ Visualization # 7 Users of CitiBike be Gender
 
 ![This is an image](https://github.com/AleksKostrycka/bikesharing/blob/main/Resources/Trips%20by%20Gender.png?raw=true)
 
-Bikeshare program users are also predominantly male, at approximately 5/8 to only about 1/4 female. The remaining 1/8 gender is unknown or undeclared.
+Bikeshare program users are also predominantly male, at approximately 65% to only about 25% female. The remaining 10% gender is unknown or undeclared.
 
+## Summary
 
+In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
+
+If I were to pursue additional analysis and visualization, given the data provided, I would explore:
+
+1) trip starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours and also to analyze if more stations are needed in certain neghboor hoods to increase customer convenience
+
+2) continue to analyze the flow of traffic through out the day as users start and end their trip to better identify windows of low usage to plan for repairs, or plan campaigns around lower usage times to incentivise individuals to use the bike share more often. 
+
+[THIS IS THE LINK TO THE DASHBOARD/STORY](https://public.tableau.com/app/profile/aleks.kostrycka/viz/CitiBikeSharingChallenge/NYCBikeSharing?publish=yes)
 
 
 
